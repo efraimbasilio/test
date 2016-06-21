@@ -1,0 +1,4 @@
+Things that i learned in GIT.
+1. it makes a developer saved project online.
+2. beacause of the repository that is created , all of developers can easily access and commit all their task (code) realtime and because of that the development can be more faster and convinient for the developers. 
+3. and also because of GIT it gives the developer a online resume for their future jobs.. 
